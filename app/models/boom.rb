@@ -1,0 +1,2 @@
+class Boom < ApplicationRecord
+end
